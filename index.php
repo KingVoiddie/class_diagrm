@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<img src="images.jpeg">
+<img src="images.jpg">
 
 </body>
 </html>
